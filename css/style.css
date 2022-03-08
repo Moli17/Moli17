@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+nav ul a{
+    text-decoration: none;
+    padding: 0px 40px;
+    border: 1px solid  white;
+    color: white;
+    margin: 0px 15px;
+}
+
+nav{
+    padding-top: 30px;
+}
+
+nav ul a:hover{
+    background-color: #27AE60;
+    color: #884EA0;
+}
+
+h1{
+    padding-top: 40px;
+    color: #884EA0;
+    font-family: 'kanit', sans-serif;
+    font-size: 25px;
+}
+
+p{
+    color: white;
+    background-color: #884EA0;
+}
+
+body{
+    background-color: black;
+}
+
+.carousel-inner{
+    width: 800px;
+    height: 100%;
+}
